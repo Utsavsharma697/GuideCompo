@@ -1,0 +1,12 @@
+{
+  "name": "guideinfo",
+  "displayName": "guideinfo",
+  "expo": {
+    "name": "guideinfo",
+    "slug": "guideinfo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
